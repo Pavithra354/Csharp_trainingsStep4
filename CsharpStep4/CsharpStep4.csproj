@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>ArraysCode.ArrayExample</StartupObject>
+    <StartupObject>DictionaryNamespace.ExampleDict</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -47,6 +47,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Collections\1.Arrays.cs" />
+    <Compile Include="Collections\3.ArrayLIst.cs" />
+    <Compile Include="Collections\5.List.cs" />
+    <Compile Include="Collections\Dictionary.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

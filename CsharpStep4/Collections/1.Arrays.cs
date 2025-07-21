@@ -23,8 +23,8 @@ namespace ArraysCode
 
             // 4. Multidata Types not possible
             int[] arr2 = new int[2];
-             arr2[0] = false;
-            arr2[1] = "Hello";
+             //arr2[0] = false;
+            //arr2[1] = "Hello";
 
             // 5. Looping
             int[] arr3 = new int[4];
